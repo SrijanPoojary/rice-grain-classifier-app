@@ -34,7 +34,7 @@ model = load_my_model()
 st.set_page_config(
     layout="wide", 
     page_title=" Rice Grain Classifier", 
-    page_icon="🍚"
+    page_icon="🌾"
 )
 
 # --- 1. Sidebar for Project Information and Instructions ---
